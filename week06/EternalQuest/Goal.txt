@@ -1,0 +1,3 @@
+0
+1
+SimpleGoal|Movie|Going to the cinema for a movie|100|False

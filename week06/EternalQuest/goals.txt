@@ -1,0 +1,3 @@
+100
+EternalGoal|Gospel|100
+ChecklistGoal|walk|100|1|3|300
